@@ -1,0 +1,16 @@
+{
+  "name": "learn-node",
+  "version": "1.0.0",
+  "description": "basic node js",
+  "main": "Server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node Server.js",
+    "start-server": "node Server.js"
+  },
+  "author": "Aman Gupta",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
